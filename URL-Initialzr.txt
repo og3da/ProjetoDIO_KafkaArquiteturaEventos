@@ -1,0 +1,7 @@
+tutorial-rest-Kafka>
+
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.2&packaging=jar&jvmVersion=17&groupId=dio.expertostech&artifactId=tutorial-rest-kafka&name=Tutorial%20de%20APIRest%20com%20Kafka&description=&packageName=dio.expertostech.tutorial.rest.kafka&dependencies=lombok,web,kafka
+
+tutorial-microservico-Kafka>
+
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.3.2&packaging=jar&jvmVersion=17&groupId=dio.expertostech&artifactId=tutorial-microservico-kafka&name=tutorial-microservico-kafka&description=&packageName=dio.expertostech.tutorial.microservico.kafka&dependencies=lombok,kafka

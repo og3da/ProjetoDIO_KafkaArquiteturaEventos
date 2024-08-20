@@ -1,0 +1,8 @@
+comando para exibir container id>
+docker ps
+
+comando para exibir tópicos existentes>
+docker exec -it <id_container> kafka-topics.sh --bootstrap-server localhost:9092 --list
+
+escutar mensagens do topico>
+docker exec -it <id_container> kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic <nome_topico>
